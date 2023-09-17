@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnByAbility"
+        android:title="Filter By Ability" />
+    <item
+        android:id="@+id/btnByType"
+        android:title="Filter By Type" />
+
+</menu>
